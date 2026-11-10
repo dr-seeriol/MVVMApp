@@ -1,4 +1,4 @@
-﻿using DBApp.ViewModels;
+﻿using MVVMApp.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -11,7 +11,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace DBApp.Views
+namespace MVVMApp.Views
 {
     /// <summary>
     /// Interaction logic for AltMainWindow.xaml

@@ -2,11 +2,11 @@
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Windows.Input;
-using DBApp.Data;
-using DBApp.Models;
+using MVVMApp.Models;
 using Microsoft.EntityFrameworkCore;
+using MVVMApp.Data;
 
-namespace DBApp.ViewModels
+namespace MVVMApp.ViewModels
 {
     public class MainViewModel : INotifyPropertyChanged
     {

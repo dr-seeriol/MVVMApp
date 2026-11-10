@@ -1,10 +1,10 @@
-﻿using DBApp.Models;
+﻿using MVVMApp.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace DBApp.Data
+namespace MVVMApp.Data
 {
     public class PeopleContext : DbContext
     {

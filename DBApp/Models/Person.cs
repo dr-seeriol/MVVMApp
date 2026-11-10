@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Text;
 
-namespace DBApp.Models
+namespace MVVMApp.Models
 {
     public class Person : INotifyPropertyChanged
     {

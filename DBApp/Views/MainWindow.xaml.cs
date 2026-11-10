@@ -1,6 +1,6 @@
-﻿using DBApp.Data;
-using DBApp.Models;
-using DBApp.ViewModels;
+﻿using MVVMApp.Data;
+using MVVMApp.Models;
+using MVVMApp.ViewModels;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Sqlite;
 using SQLitePCL;
